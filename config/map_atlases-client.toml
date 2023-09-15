@@ -1,0 +1,42 @@
+#Scale the mini-map to a given % of the height of your screen.
+#Range: 0 ~ 100
+forceMiniMapScaling = 30
+#If 'true', the Mini-Map of the Active Map will be drawn on the HUD while the Atlas is active.
+drawMiniMapHUD = true
+#Scale the world-map to a given % of the height of your screen.
+#Range: 0 ~ 100
+forceWorldMapScaling = 80
+#Controls anchor position of mini-map
+#Allowed Values: UPPER_LEFT, UPPER_RIGHT, LOWER_LEFT, LOWER_RIGHT
+miniMapAnchoring = "UPPER_LEFT"
+#An integer which will offset the mini-map horizontally
+#Range: 0 ~ 4000
+miniMapHorizontalOffset = 5
+#An integer which will offset the mini-map vertically
+#Range: 0 ~ 4000
+miniMapVerticalOffset = 5
+#The number of pixels to shift vertically when there's an active effect
+#Range: 0 ~ 4000
+activePotionVerticalOffset = 26
+#When enabled, the player's current Coords will be displayed
+drawMinimapCoords = true
+#When enabled, the player's current Biome will be displayed
+drawMinimapBiome = true
+#When enabled, the Atlas world map coordinates will be displayed
+drawWorldMapCoords = true
+#Sets the scale of the text rendered for Coords and Biome mini-map data
+#Range: 0.0 ~ 10.0
+minimapCoordsAndBiomeScale = 1.0
+#Sets the scale of the text rendered for Coords world-map data
+#Range: 0.0 ~ 10.0
+worldMapCoordsScale = 1.0
+#Sets the scale of the map icons rendered in the mini-map
+#Range: 0.0 ~ 10.0
+miniMapDecorationScale = 1.0
+#Sets the scale of the map icons rendered in the world-map
+#Range: 0.0 ~ 10.0
+worldMapDecorationScale = 1.0
+#Multiplier for all the Atlases sound float
+#Range: 0.0 ~ 10.0
+soundScalar = 1.0
+
