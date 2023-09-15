@@ -45,4 +45,12 @@ Chat+ (Not included in this repo) - mr_ch0c0late, Zartrix & Victorth
 ---
 
 Delightful Plaques - Cerealconjugo
+
+---
+
+Create Renewable Ores - F53
+
+---
+
+Create Oxidized - xokz
 </details>
