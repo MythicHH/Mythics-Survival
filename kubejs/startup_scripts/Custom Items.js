@@ -1,0 +1,26 @@
+StartupEvents.registry('item', event => {
+	event.create("chain_link")
+	.displayName("Chain Link")
+	.texture("kubejs:item/chain_link")
+})
+StartupEvents.registry('item', event => {
+	event.create("leather_strap")
+	.displayName("Leather Strap")
+	.texture("kubejs:item/leather_strap")
+})
+StartupEvents.registry('item', event => {
+	event.create("stove_grille")
+	.displayName("Stove Grille")
+	.texture("kubejs:item/stove_grille")
+})
+StartupEvents.registry('block', event => {
+    event.create("sturdy_stone") 
+    .displayName("Sturdy Stone") 
+    .stoneSoundType()
+    .hardness(2.0) 
+    .resistance(7.0) 
+	.requiresTool(true)
+	.fullBlock(true)
+	.tagBlock("mineable/pickaxe")
+	.textureAll('kubejs:block/sturdy_stone')
+})
