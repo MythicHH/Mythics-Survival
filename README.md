@@ -1,5 +1,5 @@
 <center> 
-<img src="https://cdn.modrinth.com/data/JLtKHYTf/images/6b7553f139873bb176c8e10d3878aa444b3df1d5.png" alt="Mythic's Survival Banner" width="500" height="100"> 
+<img src="https://cdn.modrinth.com/data/JLtKHYTf/images/ac5dbfc38bf853e577f3c6835966c56d420b0c07.png" alt="Mythic's Survival Banner" width="500" height="100"> 
 </center>
 
 # Mythic's Survival
