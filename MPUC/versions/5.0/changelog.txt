@@ -1,0 +1,200 @@
+# This update contains changes that may break your worlds. Please make a backup and prepare for the removal of: Handcrafted & Storage Drawers
+
+
+
+## Added:
+
+
+- Neko's Enchanted Books
+
+
+- Embeddium
+
+
+- Seperated Leaves
+
+
+- Simple Discord RPC
+
+
+- Mooshroom Tweaks
+
+
+- KubeJS Create
+
+
+- Fog Looks Modern Now
+
+
+- Polymorph
+
+
+- KleeSlabs
+
+
+- CREATE CENTRAL KITCHEN!!!
+
+
+- Remove Reloading Screen
+
+
+- Mindful Darkness
+
+
+- Random Bone Meal Flowers
+
+
+- e4mc
+
+
+- Additional Additions
+
+
+- Mouse Tweaks
+
+
+- Nether Portal Fix
+
+
+- Better Climbing
+
+
+- Scaffolding Drops Nearby
+
+
+- Domestication Innovation
+
+
+- Eating Animation
+
+
+- Domestication Innovation CTOV Compat
+
+
+- Heracles
+
+
+- Respawning Animals
+
+
+- Now Playing
+
+
+- Simple Netherite Horse Armour
+
+
+- Nether's Delight
+
+
+- Replaced CraftPresence with Simple Discord Rich Presence
+
+
+- Create Enchantment Industry
+
+
+- Kiwi
+
+
+- Sophisticated Backpacks
+
+
+- Another Furniture
+
+
+- Item Obliterator
+
+
+- Extract Poison
+
+
+- Miner's Delight(!)
+
+
+- Model Gap Fix (I swear I put this in the pack already)
+
+
+- Create Steam n' Rails
+
+
+- Visual Workbench
+
+
+- Enchantment Transfer
+
+
+- Good Boy
+
+
+- Enderman Overhaul
+
+
+- Stronger Snowballs
+
+
+- Better F3
+
+
+- Carry On
+
+
+- Trade Cycling
+
+
+- Easy Magic
+
+
+- Ecologics
+
+
+- Fusion
+
+
+- Rechiseled
+
+
+- Clean Tooltips
+
+
+- Rechiseled: Create
+
+
+- Snow! Real Magic!
+
+
+- More Sequenced Assembly stuff
+
+
+- Quests! (basically just a loose guide in an effort to not be too hand-holdy)
+
+
+- A keybind to toggle the FirstPerson mod (F6 by default)
+
+
+- Shaders are off by default!
+
+
+## Removed:
+
+
+- Rubidium
+
+
+- Pet Transfer
+
+
+- Canary
+
+
+- Handcrafted
+
+
+- Beautify
+
+
+- Storage Drawers
+
+
+## Updated:
+
+
+- A bunch of mods that I forgot to note down :/
