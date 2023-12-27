@@ -26,7 +26,19 @@
 - Fog Looks Modern Now
 
 
+- Tips
+
+
 - Polymorph
+
+
+- Up To Scratch
+
+
+- Peeves
+
+
+- New Sniffer Egg
 
 
 - KleeSlabs
@@ -36,9 +48,6 @@
 
 
 - Remove Reloading Screen
-
-
-- Mindful Darkness
 
 
 - Random Bone Meal Flowers
@@ -101,9 +110,6 @@
 - Another Furniture
 
 
-- Item Obliterator
-
-
 - Extract Poison
 
 
@@ -164,7 +170,7 @@
 - More Sequenced Assembly stuff
 
 
-- Quests! (basically just a loose guide in an effort to not be too hand-holdy)
+- Quests!
 
 
 - A keybind to toggle the FirstPerson mod (F6 by default)
