@@ -1,1 +1,77 @@
+## Added
 
+
+
+- Portfolio
+
+
+- Waystones Teleport Pets
+
+
+- Screenshot to Clipboard
+
+
+- Screenshot Viewer
+
+
+- It Takes a Pillage
+
+
+- Tiny Item Animations
+
+
+- More Villagers
+
+
+- Gentle Picking (Forge)
+
+
+- Food Effect Tooltips
+
+
+- Better Jukeboxes
+
+
+- Colorful Nixies
+
+
+- ECCGC
+
+
+- Why Stacks of 16?
+
+
+[Villagers Sell Animals](https://legacy.curseforge.com/minecraft/mc-mods/villagers-sell-animals)
+
+
+## Removed
+
+
+- Explorer's Compass
+
+
+- Colourful Nixies (not working, sadge)
+
+
+## Updated
+
+
+- Resourcefulconfig
+
+
+- Oculus
+
+
+- Supplementaries
+
+
+- Moonlight Library
+
+
+- Modpack Update Checker
+
+
+- Map Atlases
+
+
+- NeoForge
