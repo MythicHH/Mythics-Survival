@@ -1,5 +1,7 @@
-## Added
+## Switched back to Forge so FancyMenu v3 and Presence Footsteps would work
 
+
+## Added
 
 
 - Portfolio
@@ -32,13 +34,91 @@
 - Better Jukeboxes
 
 
-- Colorful Nixies
-
-
 - ECCGC
 
 
 - Why Stacks of 16?
+
+
+- COFH Core
+
+
+- Ensorcellation
+
+
+- No More Night Vision Flashing
+
+
+- Bat Backport
+
+
+- Vex Backport
+
+
+- More Cherries
+
+
+- Good Ending
+
+
+- Smidgeon of Bliss
+
+
+- JSON Things
+
+
+- Dynamic Lights
+
+
+- Tom's Create Storage
+
+
+- Tom's Create Storage Recipes
+
+
+- Dynamic Crosshair
+
+
+- Apathy (Hostile mobs are now neutral on easy mode)
+
+
+- Copper Drops
+
+
+- Chalk
+
+
+- Universal Sawmill
+
+
+- Quark
+
+
+- Zeta
+
+
+- Highlightttttt
+
+
+- Quark Oddities
+
+
+- The Conjurer (I thought this was in the pack already)
+
+
+- Presence Footsteps
+
+
+- Blueprint
+
+
+- Bubble Boots
+
+
+- Amendments
+
+
+[KubeJS Delight](https://legacy.curseforge.com/minecraft/mc-mods/kubejs-delight)
 
 
 [Villagers Sell Animals](https://legacy.curseforge.com/minecraft/mc-mods/villagers-sell-animals)
@@ -50,7 +130,28 @@
 - Explorer's Compass
 
 
-- Colourful Nixies (not working, sadge)
+- Removed all Waystones recipes
+
+
+- Callable Horses
+
+
+- Vanilla Refresh (default configs wouldn't work)
+
+
+- Simple Storage Network (Rest In Peace)
+
+
+- flib
+
+
+- Wooled Boots
+
+
+- Backpacked
+
+
+- Marked Jade and Jade Addons as optional (on prism, may work with other launchers but I am not testing)
 
 
 ## Updated
@@ -74,4 +175,7 @@
 - Map Atlases
 
 
-- NeoForge
+- Farmer's Delight
+
+
+- Fancymenu 
