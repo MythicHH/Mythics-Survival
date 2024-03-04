@@ -1,15 +1,12 @@
-{
-  "schemaVersion": 1,
-  "hotfixesFormat": null,
-  "versions": [
-   
+"versions": [
+    ...
     {
         "id": "5.1",
-        "releasedAt": 1703712884,
+        "releasedAt": 1709526199036,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/modpack/mythics-survival/version/5.0"
+                "modrinth": "https://modrinth.com/modpacks/mythics-survival/versions/5.0",
             }
         }
     }
-]}
+]
