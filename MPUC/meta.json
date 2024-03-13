@@ -3,20 +3,20 @@
   "hotfixesFormat": null,
   "versions": [    
     {
-        "id": "5.0",
-        "releasedAt": 209384235425,
+        "id": "5.1",
+        "releasedAt": 209384093820,
         "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/modpacks/mythics-survival/versions/5.0"
             }
         }
-    },   
+    }.
     {
-        "id": "5.1",
-        "releasedAt": 209384093820,
+        "id": "5.0",
+        "releasedAt": 209384235425,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/modpacks/mythics-survival/versions/5.1"
+                "modrinth": "https://modrinth.com/modpacks/mythics-survival/versions/5.0"
             }
         }
     }
