@@ -5,6 +5,7 @@
     {
         "id": "5.1",
         "releasedAt": 209384093820,
+        "updateType": "major"
         "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/modpacks/mythics-survival/versions/5.1",
